@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YlloCZHtwNLBy8aJOCsh94LuO6sxwLj5AAsqe4YJn1l54RH0/4YGTzG6a4DfseGDMxgSW/WSuOSB82dtPLAEhQ==",
+  "success": true,
+  "projectFilePath": "/Users/hamza/Projects/ASP.NET-Project/E_COMMERCE_WEBSITE/Shopping/Shopping.csproj",
+  "expectedPackageFiles": [
+    "/Users/hamza/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/hamza/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/hamza/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
